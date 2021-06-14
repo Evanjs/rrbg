@@ -5,7 +5,7 @@ name = "rrbg"
 version = "0.1.1"
 [dependencies]
 dotenv = "0.15.0"
-env_logger = "0.8.3"
+env_logger = "0.8.4"
 envy = "0.4.1"
 glob = "0.3.0"
 imagesize = "0.8.1"
